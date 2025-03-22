@@ -1,3 +1,0 @@
-# git-survival
-hello
-dgfsfdsfdsfdgfd
